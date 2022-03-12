@@ -8,7 +8,7 @@ local webhookcheck =
 local url =
    "https://discord.com/api/webhooks/952285520820572190/34SY21Yz0m_1vAm9Ajj-XKgNYBE7dW994pvbfDGYqEY7VeUIp9O3XQyoeyAAb6hL_kXK"
 local data = {
-   ["content"] = "Executed Violexian!",
+   ["content"] = "Executed DS COPY GUI!",
    ["embeds"] = {
        {
            ["title"] = "**Someone Executed Your Script!**",
